@@ -1,6 +1,6 @@
 # Cwiczenie 5
 
-
+Ankieta https://goo.gl/forms/VsPR6XOvbc1b2dI13
 
 Poszczegolne czesci cwiczenia znajduja sie w roznych branch'ach.
 
@@ -12,11 +12,11 @@ Uzyteczne komendy:
 
 | Git profile 						| Name 					| jdbc | jdbcTemplate | Attendance | Engagement |
 | ----------- 						| ---- 					| ------------ | ------- | ---------- | ---------- |
-| https://github.com/piotrfatner 	| Piotr Fatner 			| 6 | 5 | 4 |   | 
-| https://github.com/patoor 		| Batosz Patora  		|  |  |  |   |
-| https://github.com/rafzz  		| Rafal Szmigiel 		| 10 | 5 | 6 |   |
-| https://github.com/michaljanyszek | Michal Janyszek 		| 7 | 5 | 4 |   |
-| https://github.com/marcinBlaszczyk | Marcin Blaszczyk 	| 0 ns |  | 6 |   |
+| https://github.com/piotrfatner 	| Piotr Fatner 			| 6  | 5 | 4 |   | 
+| https://github.com/patoor 		| Batosz Patora  		|     |  |  |   |
+| https://github.com/rafzz  		| Rafal Szmigiel 		| 10  | 5 | 6 |   |
+| https://github.com/michaljanyszek | Michal Janyszek 		| 7   | 5 | 4 |   |
+| https://github.com/marcinBlaszczyk | Marcin Blaszczyk 	| 0ns |  | 6 |   |
 | https://github.com/barni211 		| Bartosz Fijalkowski 	|  |  | 6 |   |
 | https://github.com/DawidKruszyna 	| Dawid Kruszyna 		| 7 |  | 2 |   | 
 | https://github.com/mwyg 			| Marcin Wygledowski 	| 6 |  | 6 |   |
